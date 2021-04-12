@@ -14,7 +14,7 @@
 
 😄  &nbsp; My hobbies are cross-country ski, sci-fi, Playstation videogames and Manchester United football team.
 
-🐶  &nbsp; When I find me a position, I'll certainly get a Cavalier King Charles Spaniel (have you ever seen how cute they are?).
+🐶  &nbsp; When I find a position, I'll certainly get a Cavalier King Charles Spaniel (have you ever seen how cute they are?).
 
 
 ### My Stack
