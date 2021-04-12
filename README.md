@@ -32,5 +32,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariaovch&langs_count=3)
 
 ### Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dariaovch94@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariaovch94@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daria-ovchinnikova-6a62481b7/?locale=en_US)
