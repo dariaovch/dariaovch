@@ -31,8 +31,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dariaovch&theme=default&hide_title=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariaovch&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dariaovch&theme=default&show_icons=true&hide_title=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariaovch&hide_title=true&lang_count=3)
 
 ### Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariaovch94@gmail.com)
