@@ -31,7 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dariaovch&theme=default&show_icons=true&hide_title=true) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dariaovch&theme=default&show_icons=true&hide_title=true&line_height=27) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariaovch&hide=shell&hide_title=true)
 
 ### Contact me
