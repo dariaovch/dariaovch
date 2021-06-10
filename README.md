@@ -1,5 +1,4 @@
-### Hi, I'm Daria 👋
-#### I am a Frontend-Developer
+### Hi, I'm Daria 👋 #### I am a Frontend-Developer
 
 🔭  &nbsp; I’ve completed the Web Development training course and the Development of Complex Front-end applications on React.js course.  
 🌱  &nbsp; I’m currently learning Frontend-testing, Angular & TypeScript.  
