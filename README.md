@@ -4,10 +4,8 @@
 🌱  &nbsp; I’m currently learning Frontend-testing, Angular & TypeScript.  
 ❤️  &nbsp; Frontend development is my passion, which allows me to move forward and makes me think how to best utilize my skills.  
 ⭐  &nbsp; I'm eager to become a higly qualified professional in my sphere.  
-👯  &nbsp; I'm able to effectively collaborate as part of a productive team.  
-🤔  &nbsp; At the moment I’m looking for a great job in Frontend!  
 😄  &nbsp; My hobbies are cross-country ski, sci-fi, Playstation videogames and Manchester United football team.  
-🐶  &nbsp; When I find a position, I'll certainly get a Cavalier King Charles Spaniel (have you ever seen how cute they are?).  
+🐶  &nbsp; In the future, I'll certainly get a Cavalier King Charles Spaniel (have you ever seen how cute they are?).  
 
 ### My Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
